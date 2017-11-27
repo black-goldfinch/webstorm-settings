@@ -4,9 +4,9 @@
     <property name="created">2017-11-27T11:46:54</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-11-27T11:47:57</property>
+    <property name="modified">2017-11-27T12:58:11</property>
     <property name="originalScheme">_@user_ReSharper Dark</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="34" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
 </scheme>
