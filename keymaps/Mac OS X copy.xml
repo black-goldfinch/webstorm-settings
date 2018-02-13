@@ -6,6 +6,12 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="c" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="b" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
+  </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="s" />
   </action>
