@@ -17,6 +17,9 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="u" />
   </action>
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="n" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
   </action>
