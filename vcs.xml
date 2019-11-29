@@ -9,10 +9,7 @@
       </list>
     </option>
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
-  </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:/Work/pg.simple-1c" />
+    <option name="PATCH_STORAGE_LOCATION" value="$APPLICATION_HOME_DIR$/bin/C:/Work/pg.simple-1c" />
   </component>
 </application>
