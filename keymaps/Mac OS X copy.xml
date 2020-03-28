@@ -11,6 +11,9 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
   </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="m" />
+  </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="s" />
   </action>
