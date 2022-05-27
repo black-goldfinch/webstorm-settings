@@ -1,0 +1,12 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Work/app-web/src/client/knapp/resources/arm/armModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web/src/client/knapp/resources/counters/countersModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web/src/client/knapp/resources/customers/customersModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web/src/client/knapp/resources/jiraTasks/tasksModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web/src/client/knapp/resources/onboarding/onboardingModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web/src/client/knapp/resources/shared.ts" />
+    <file url="file://$USER_HOME$/Work/app-web/src/client/knapp/resources/tasksNew/tasksNewModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web/src/client/knapp/resources/users/usersModels.ts" />
+  </component>
+</application>
