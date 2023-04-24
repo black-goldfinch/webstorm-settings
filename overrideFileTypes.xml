@@ -1,16 +1,22 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/arm/armModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/cashboxes/cashboxesModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/counters/countersModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/customers/customersModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/dealings/dealingsModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/docsRobot/docsRobotModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/documents/documentsModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/freemium/freemiumModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/generalTasks/generalTasksModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/jiraTasks/tasksModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/onboarding/onboardingModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/payments/paymentsModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/payments/statementsModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/reconciliationAct/reconciliationActModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/shared.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/statisticalReporting/statisticalReportingModels.ts" />
+    <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/tasksNew/tasksNewModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/taxes/taxesModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/tps/tpsModels.ts" />
     <file url="file://$USER_HOME$/Work/app-web-seponka/src/client/knapp/resources/tpsCheckList/tpsCheckListModels.ts" />
