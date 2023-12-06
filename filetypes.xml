@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping pattern="taskResult" type="TypeScript" />
       <mapping pattern="ReconciliationActLink" type="TypeScript" />
